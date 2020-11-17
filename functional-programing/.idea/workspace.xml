@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23b1e71a-9c93-4edb-b079-07bb853aacf0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/functional-programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseCertificate.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/alaaddin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/eclipseCodeFormatter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functional-programing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/META-INF/functional-programing.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/PrintOutUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/exercises.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp01Introduction/I01Functional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp01Introduction/I01Structured.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp01Introduction/I02Exercises.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp02streams/S01StructuredBeforeFP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp02streams/S02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp02streams/S03MapFilterAndReduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp02streams/S04DistinctAndSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp02streams/S05Comparators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp02streams/S06Collect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp02streams/S07StreamOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp04customClasses/C01Matching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp04customClasses/C02SortingAndComparators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp04customClasses/C03SkipLimitTakeWhileAndDropWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp04customClasses/C04MinMaxFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp04customClasses/C05SumAverangeCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp04customClasses/C06GroupBy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp04customClasses/model/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp04customClasses/repository/DataRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp05Numbers/N01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp05Numbers/N02NumberLimitPeekIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp05Numbers/N03BigNumberCalculationWitBigInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp06Further/F01JoiningFlatMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp06Further/F02HigherOrderFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp06Further/F03PerfomanceIntermadiateOperationAndLazy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp06Further/F04ParallelizationOfStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp07/F01UnmodifyModify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp07/F02ReadFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp07/F03Threads$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp07/F03Threads.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI01$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI01$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI02BinaryOperator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI02BinaryOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI03BehaviorParameterization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI04BehaviorExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI05SuplierAndUnary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI06BiPredicateAndBiFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI07BiConsumerAndPrimitive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/fp3functionalInterfaces/FI08MethodReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/functional-programing/com/attin/me.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/PrintOutUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/exercises.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp01Introduction/I01Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp01Introduction/I01Structured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp01Introduction/I02Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp02streams/S01StructuredBeforeFP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp02streams/S02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp02streams/S03MapFilterAndReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp02streams/S04DistinctAndSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp02streams/S05Comparators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp02streams/S06Collect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp02streams/S07StreamOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp04customClasses/C01Matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp04customClasses/C02SortingAndComparators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp04customClasses/C03SkipLimitTakeWhileAndDropWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp04customClasses/C04MinMaxFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp04customClasses/C05SumAverangeCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp04customClasses/C06GroupBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp04customClasses/model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp04customClasses/repository/DataRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp05Numbers/N01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp05Numbers/N02NumberLimitPeekIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp05Numbers/N03BigNumberCalculationWitBigInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp06Further/F01JoiningFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp06Further/F02HigherOrderFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp06Further/F03PerfomanceIntermadiateOperationAndLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp06Further/F04ParallelizationOfStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp07/F01UnmodifyModify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp07/F02ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp07/F03Threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp3functionalInterfaces/FI01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp3functionalInterfaces/FI02BinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp3functionalInterfaces/FI03BehaviorParameterization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp3functionalInterfaces/FI04BehaviorExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp3functionalInterfaces/FI05SuplierAndUnary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp3functionalInterfaces/FI06BiPredicateAndBiFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp3functionalInterfaces/FI07BiConsumerAndPrimitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/fp3functionalInterfaces/FI08MethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/attin/me.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP01Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP01Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP01Structured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP02Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP02StreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP02Structured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP03BehaviorParameterization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP03FunctionalInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP03FunctionalInterfaces2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP03LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP03MethodReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP04CustomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP05Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP05Parallelizing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional-programming-with-java-master/src/programming/FP05Threads.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iSQrZVm6reyB6McHcafX8fBQmN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="copyright.filetypes.JAVA" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\app\functional-programing\src\com\attin" />
+      <recent name="C:\dev\app\functional-programing\src\com\attin\fp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.attin" />
+      <recent name="com.attin.fp04customClasses.repository" />
+      <recent name="com.attin.fp01Introduction" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.attin.fp07" />
+      <recent name="com.attin.fp06Further" />
+      <recent name="com.attin.fp05" />
+      <recent name="com.attin.fp04customClasses" />
+      <recent name="com.attin.fp3functionalInterfaces" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\app\functional-programing\src\com\attin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.F03Threads">
+    <configuration name="F01UnmodifyModify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.fp07.F01UnmodifyModify" />
+      <module name="functional-programing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.fp07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F02ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.fp07.F02ReadFile" />
+      <module name="functional-programing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.fp07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F03PerfomanceIntermadiateOperationAndLazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.fp06Further.F03PerfomanceIntermadiateOperationAndLazy" />
+      <module name="functional-programing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.fp06Further.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F03Threads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.fp07.F03Threads" />
+      <module name="functional-programing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.fp07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F04ParallelizationOfStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attin.fp06Further.F04ParallelizationOfStream" />
+      <module name="functional-programing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attin.fp06Further.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.F03Threads" />
+        <item itemvalue="Application.F02ReadFile" />
+        <item itemvalue="Application.F01UnmodifyModify" />
+        <item itemvalue="Application.F04ParallelizationOfStream" />
+        <item itemvalue="Application.F03PerfomanceIntermadiateOperationAndLazy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b1e71a-9c93-4edb-b079-07bb853aacf0" name="Default Changelist" comment="" />
+      <created>1601898712383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601898712383</updated>
+      <workItem from="1601898717257" duration="2840000" />
+      <workItem from="1601902546540" duration="1315000" />
+      <workItem from="1601903885862" duration="245000" />
+      <workItem from="1601904146393" duration="40872000" />
+      <workItem from="1602066399183" duration="18095000" />
+      <workItem from="1602111729933" duration="3825000" />
+      <workItem from="1602156297026" duration="24219000" />
+      <workItem from="1602225799756" duration="12224000" />
+      <workItem from="1602338924292" duration="3668000" />
+      <workItem from="1602504254472" duration="597000" />
+      <workItem from="1602675733660" duration="262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="0" width="814" height="824" key="#Intentions" timestamp="1602012362762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="0" width="814" height="824" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1602012362762" />
+    <state x="361" y="70" key="#Notifications" timestamp="1601904087599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1601904087599" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1602076685131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602076685131" />
+    <state x="566" y="297" width="456" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602243115475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="456" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1602243115475" />
+    <state x="566" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602501802509">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="318" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1602501802509" />
+    <state x="653" y="115" key="#xdebugger.evaluate" timestamp="1602008825394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="653" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1602008825394" />
+    <state x="528" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602245102507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1602245102507" />
+    <state width="396" height="466" key="DebuggerActiveHint" timestamp="1602239452753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="396" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1602239452753" />
+    <state x="668" y="213" key="FileChooserDialogImpl" timestamp="1602675965310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="213" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602675965310" />
+    <state width="1493" height="239" key="GridCell.Tab.0.bottom" timestamp="1602249094113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602249094113" />
+    <state width="1493" height="239" key="GridCell.Tab.0.center" timestamp="1602249094113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602249094113" />
+    <state width="1493" height="239" key="GridCell.Tab.0.left" timestamp="1602249094113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602249094113" />
+    <state width="1493" height="239" key="GridCell.Tab.0.right" timestamp="1602249094113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602249094113" />
+    <state width="1493" height="188" key="GridCell.Tab.1.bottom" timestamp="1602249094113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602249094113" />
+    <state width="1493" height="188" key="GridCell.Tab.1.center" timestamp="1602249094113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602249094113" />
+    <state width="1493" height="188" key="GridCell.Tab.1.left" timestamp="1602249094113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602249094113" />
+    <state width="1493" height="188" key="GridCell.Tab.1.right" timestamp="1602249094113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602249094113" />
+    <state x="266" y="23" width="1148" height="715" key="SettingsEditor" timestamp="1602075454729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="266" y="23" width="1148" height="715" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602075454729" />
+    <state x="106" y="157" width="540" height="524" key="StructurePopup" timestamp="1602239217323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="106" y="157" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1602239217323" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1601932716504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1601932716504" />
+    <state x="512" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1602504982097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="203" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602504982097" />
+    <state x="537" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601991330432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1601991330432" />
+    <state x="499" y="178" key="extract.method.dialog" timestamp="1602012420500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="178" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1602012420500" />
+    <state x="463" y="149" width="611" height="526" key="find.popup" timestamp="1602339240302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="149" width="611" height="526" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1602339240302" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1602245145644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1602245145644" />
+    <state x="209" y="114" key="new project wizard" timestamp="1602675994927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602675994927" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1602183240855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602183240855" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602243478543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602243478543" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.base/java/util/Formatter.java</url>
+          <line>2979</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/attin/fp07/F02ReadFile.java</url>
+          <line>16</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/attin/fp07/F02ReadFile.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/functional_programing$FP01Functional.ic" NAME="FP01Functional Coverage Results" MODIFIED="1601899879638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.attin.fp.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/functional_programing$FP01Structured.ic" NAME="FP01Structured Coverage Results" MODIFIED="1601899939142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.attin.fp.*</FILTER>
+    </SUITE>
+  </component>
+</project>
